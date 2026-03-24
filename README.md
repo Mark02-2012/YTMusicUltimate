@@ -10,7 +10,7 @@
 <p align="center">
 The best tweak for the YouTube Music on iOS. 
 
-<strong>The uptates will be released in 5-24 hours</strong>
+<strong>The updates will be released in 5-24 hours</strong>
 </p>
 
 ## Download Links
